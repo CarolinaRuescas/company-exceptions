@@ -5,7 +5,6 @@ import lombok.extern.log4j.Log4j;
 import org.ies.company.model.Company;
 import org.ies.company.model.Department;
 
-import javax.swing.*;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
